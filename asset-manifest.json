@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-referral-app/static/css/main.cec93760.css",
+    "main.js": "/react-referral-app/static/js/main.d725622c.js",
+    "static/js/787.d04cfe08.chunk.js": "/react-referral-app/static/js/787.d04cfe08.chunk.js",
+    "static/media/logo.svg": "/react-referral-app/static/media/logo.daff3f4662626dc3608386dc583af205.svg",
+    "index.html": "/react-referral-app/index.html",
+    "main.cec93760.css.map": "/react-referral-app/static/css/main.cec93760.css.map",
+    "main.d725622c.js.map": "/react-referral-app/static/js/main.d725622c.js.map",
+    "787.d04cfe08.chunk.js.map": "/react-referral-app/static/js/787.d04cfe08.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cec93760.css",
+    "static/js/main.d725622c.js"
+  ]
+}
